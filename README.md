@@ -1,4 +1,12 @@
-### Hi there 👋
+### 🕺🏻 Cat Jam 💃🏻
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8832106/102006952-e0584200-3d5f-11eb-9d35-32b525c4e46d.gif">
+  <img src="https://user-images.githubusercontent.com/8832106/102006952-e0584200-3d5f-11eb-9d35-32b525c4e46d.gif">
+  <img src="https://user-images.githubusercontent.com/8832106/102006952-e0584200-3d5f-11eb-9d35-32b525c4e46d.gif">
+  <img src="https://user-images.githubusercontent.com/8832106/102006952-e0584200-3d5f-11eb-9d35-32b525c4e46d.gif">
+  <img src="https://user-images.githubusercontent.com/8832106/102006952-e0584200-3d5f-11eb-9d35-32b525c4e46d.gif">
+</p>
 
 <!--
 **jooeycheng/jooeycheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
